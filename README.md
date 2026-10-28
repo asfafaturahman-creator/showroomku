@@ -8,10 +8,10 @@ SHOWROOMKU membantu calon pembeli mengenal showroom, melihat katalog mobil yang 
 ## Anggota Kelompok
 | Nama | Username GitHub | Peran utama |
 |------|-----------------|-------------|
-| (isi nama) | @username | (mis. Navbar & Hero) |
-| (isi nama) | @username | (mis. About) |
-| (isi nama) | @username | (mis. Katalog) |
-| (isi nama) | @username | (mis. Kontak & Footer) |
+| (Asfa faturohman) | Asfa F | (mis. Navbar & , menu responsif) |
+| (Agilo Gian Pandega) | Agilogian | (mis. Kontak & Footer) |
+| (Dwiki Hardiansyah) | dawikihardiansyah070 | (mis. Katalog) |
+| (Fikri Imam Bhakti Perwira) | fikricilegon18-ops | (mis. Hero & About ) |
 
 ## Fitur / Section
 - **Navbar**: navigasi antarseksi, menu responsif di layar kecil.
@@ -25,22 +25,21 @@ HTML5, CSS3, JavaScript dasar (tanpa framework, tanpa backend). Git dan GitHub u
 
 ## Cara Menjalankan Secara Lokal
 ```bash
-git clone https://github.com/<username>/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/asfafaturahman-creator/showroomku.git
+cd <asfafaturahman-showroomku>
 ```
 Lalu buka `index.html` di browser (klik dua kali, atau gunakan ekstensi Live Server di VS Code).
 
 ## Pembagian Tugas dan Kontribusi
-| Anggota | Issue | Branch | Pull Request | Ringkasan kontribusi |
-|---------|-------|--------|--------------|----------------------|
-| (nama) | #1, #2 | `feature/navbar`, `feature/hero` | #… | (isi setelah selesai) |
-| (nama) | #3 | `feature/about` | #… | (isi setelah selesai) |
-| (nama) | #4, #5 | `feature/catalog` | #… | (isi setelah selesai) |
-| (nama) | #6, #7 | `feature/contact`, `feature/footer` | #… | (isi setelah selesai) |
+| Anggota | Issue | Branch | Pull Request |
+|---------|-------|--------|--------------|
+| (Asfa Faturohman) | #1, #2 | `feature/navbar`, `feature/hero` |
+| (Fikri Imam Bhakti Perwira) | #3 | `feature/about` | 
+| (Dwiki Hardiansyah) | #4, #5 | `feature/catalog` |
+| (Agilo Gian Pandega) | #6, #7 | `feature/contact`, `feature/footer` |
 
 Detail tugas ada di tab **Issues** repository ini.
 
 ## Dokumentasi Tampilan
 Screenshot ada di folder [`screenshots/`](screenshots/).
 
-<!-- Contoh: ![Beranda](screenshots/home.png) -->
